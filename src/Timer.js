@@ -10,11 +10,6 @@ class Timer extends Component {
   // add your code here
 
 
-
-
-
-
-
   render() {
 
     const { time, color, className } = this.state
